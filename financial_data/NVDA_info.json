@@ -1,1 +1,16 @@
-
+{
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "current_price": 172.41,
+  "previous_close": 173.0,
+  "market_cap": 4204666290176,
+  "pe_ratio": 55.61613,
+  "dividend_yield": 0.03,
+  "52_week_high": 174.25,
+  "52_week_low": 86.62,
+  "volume": 145456141,
+  "average_volume": 203628106,
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "retrieved_at": "2025-07-20T13:28:08.303897"
+}
