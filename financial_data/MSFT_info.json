@@ -1,1 +1,16 @@
-
+{
+  "symbol": "MSFT",
+  "name": "Microsoft Corporation",
+  "current_price": 510.05,
+  "previous_close": 511.7,
+  "market_cap": 3790967144448,
+  "pe_ratio": 39.35571,
+  "dividend_yield": 0.67,
+  "52_week_high": 514.64,
+  "52_week_low": 344.79,
+  "volume": 21086806,
+  "average_volume": 20270827,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "retrieved_at": "2025-07-20T13:26:49.519677"
+}
