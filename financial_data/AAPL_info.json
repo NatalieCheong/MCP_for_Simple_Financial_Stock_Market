@@ -1,1 +1,16 @@
 
+  "symbol": "AAPL",
+  "name": "Apple Inc.",
+  "current_price": 211.18,
+  "previous_close": 210.02,
+  "market_cap": 3154142035968,
+  "pe_ratio": 32.89408,
+  "dividend_yield": 0.51,
+  "52_week_high": 260.1,
+  "52_week_low": 169.21,
+  "volume": 48317144,
+  "average_volume": 53153770,
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "retrieved_at": "2025-07-20T13:26:45.220623"
+}
