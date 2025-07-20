@@ -66,6 +66,11 @@ cp .env.example .env
 ANTHROPIC_API_KEY=your_actual_api_key_here
 ```
 
+4. **Create financial_data folder:**
+```bash
+mkdir -p financial_data
+```
+
 ## 🏃‍♂️ Quick Start
 
 ### Running the MCP Server (Testing)
