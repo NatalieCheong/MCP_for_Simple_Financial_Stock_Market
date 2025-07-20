@@ -1,1 +1,40 @@
-
+{
+  "summary_date": "2025-07-20T13:28:19.326517",
+  "indices": [
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "current_price": 6296.7900390625,
+      "change": -0.56982421875,
+      "change_percent": -0.009048620868445847
+    },
+    {
+      "symbol": "^DJI",
+      "name": "Dow Jones",
+      "current_price": 44342.19140625,
+      "change": -142.296875,
+      "change_percent": -0.3198797614582822
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "NASDAQ",
+      "current_price": 20895.650390625,
+      "change": 10.0,
+      "change_percent": 0.04787976344030315
+    },
+    {
+      "symbol": "^RUT",
+      "name": "Russell 2000",
+      "current_price": 2240.010009765625,
+      "change": -13.669921875,
+      "change_percent": -0.606560039120046
+    },
+    {
+      "symbol": "^VIX",
+      "name": "VIX",
+      "current_price": 16.40999984741211,
+      "change": -0.1100006103515625,
+      "change_percent": -0.6658632403358504
+    }
+  ]
+}
