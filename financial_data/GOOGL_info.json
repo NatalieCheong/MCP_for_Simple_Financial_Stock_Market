@@ -1,1 +1,16 @@
-
+{
+  "symbol": "GOOGL",
+  "name": "Alphabet Inc.",
+  "current_price": 185.06,
+  "previous_close": 183.58,
+  "market_cap": 2250459316224,
+  "pe_ratio": 20.654018,
+  "dividend_yield": 0.48,
+  "52_week_high": 207.05,
+  "52_week_low": 140.53,
+  "volume": 33639843,
+  "average_volume": 40329679,
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "retrieved_at": "2025-07-20T13:26:47.135049"
+}
