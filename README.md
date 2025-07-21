@@ -210,8 +210,9 @@ financial-mcp-project/
 ├── README.md                     # This file
 ├── financial_data/               # Generated data directory
 │   ├── AAPL_info.json
-│   ├── TSLA_historical_1y_1d.json
-│   └── market_summary_*.json
+│   ├── GOOGL_info.json
+│   ├── NVDA_info.json
+│   └── market_summary_20250720_132820.json
 └── enhanced_version/             # Enhanced chatbot with guardrails
     ├── enhanced_financial_chatbot.py  # Main chatbot with comprehensive guardrails
     ├── simple_financial_chatbot.py    # Chatbot with basic guardrails (optional)
