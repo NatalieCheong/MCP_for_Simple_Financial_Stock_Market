@@ -71,6 +71,11 @@ ANTHROPIC_API_KEY=your_actual_api_key_here
 mkdir -p financial_data
 ```
 
+5. **Additional security libraries**
+```bash
+uv pip install ratelimit validators bleach
+```
+
 ## 🏃‍♂️ Quick Start
 
 ### Running the MCP Server (Testing)
