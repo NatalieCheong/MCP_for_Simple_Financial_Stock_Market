@@ -394,7 +394,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Legal Disclaimer
 
-**IMPORTANT**: This software is for educational and informational purposes only. It is not intended as financial advice, investment guidance, or professional recommendation. 
+**IMPORTANT**: This software is for educational and informational purposes only and is intended for non-commercial use. It is not intended as financial advice, investment guidance, or professional recommendation. 
 
 ### What This System Does
 - Provides factual financial data and market information
