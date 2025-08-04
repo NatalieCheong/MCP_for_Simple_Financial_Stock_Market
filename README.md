@@ -2,7 +2,6 @@
 
 A Model Context Protocol (MCP) implementation demonstrating **financial data analysis as a use case**, built with yfinance and featuring a comprehensive server with tools, resources, and prompts for stock market analysis. **Now enhanced with enterprise-grade guardrails for security, compliance, and safety.**
 
-A Model Context Protocol (MCP) implementation for financial data analysis using yfinance, featuring a comprehensive server with tools, resources, and prompts for stock market analysis. **Now enhanced with enterprise-grade guardrails for security, compliance, and safety.**
 
 ## 🚀 Features
 
