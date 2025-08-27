@@ -389,6 +389,14 @@ When contributing to guardrails:
 - Consider compliance implications
 - Update configuration examples
 
+## 🔒 Security Notice
+
+This MCP server using `stdio` transport for local-only deployment. This design choice prioritizes security when handling financial data:
+
+- ✅ **Local-only execution** - Server runs on your device only
+- ✅ **No network exposure** - Uses stdin/stdout communication 
+- ✅ **Financial data privacy** - Your data never leaves your machine
+
 ## Acknowledgments
 
 - [Model Context Protocol Official Documentation](https://modelcontextprotocol.io/)
