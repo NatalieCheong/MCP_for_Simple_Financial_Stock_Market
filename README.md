@@ -373,15 +373,6 @@ Query: How much should I invest in each of these stocks?
 - Easy policy updates
 - Compliance customization
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all guardrails tests pass
-5. Update security documentation if needed
-6. Submit a pull request
-
 ### Security Contributions
 When contributing to guardrails:
 - Test all security features thoroughly
