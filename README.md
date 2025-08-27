@@ -1,6 +1,6 @@
 # Financial MCP Project
 
-A Model Context Protocol (MCP) implementation demonstrating **financial data analysis as a use case**, built with yfinance and featuring a comprehensive server with tools, resources, and prompts for stock market analysis. **Now enhanced with enterprise-grade guardrails for security, compliance, and safety.**
+A Model Context Protocol (MCP) implementation demonstrating **financial data analysis as a use case**, built with yfinance and featuring a comprehensive server with tools, resources, and prompts for stock market analysis. **Now enhanced with enterprise-grade guardrails for security, compliance, and safety.** This project was inspired after I enrolled in the [MCP Course](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/fkbhh/introduction) offered by DeepLearning.ai in collaboration with Anthropic.
 
 
 ## 🚀 Features
